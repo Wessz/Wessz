@@ -1,8 +1,8 @@
 # Bem-vindo ao meu GitHub!
 
-Me chamo Wesley Eugênio. 
-Atualmente, estou focado no desenvolvimento backend e estudando mais sobre C# com .NET.
-Tenho experiência em SQL Server.
+Me chamo Wesley Eugênio.
+
+<p>Atualmente, estou focado no desenvolvimento backend e <br> estudando mais sobre C# com .NET e tenho experiência em SQL Server.</p>
 
 ## Sobre Mim
 
