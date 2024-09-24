@@ -19,6 +19,7 @@ Me chamo Wesley Eugênio.
 - SQL
 - HTML / CSS
 - JavaScript
+- Python
 
 ### Ferramentas e Tecnologias
 
