@@ -2,7 +2,7 @@
 
 Me chamo Wesley Eugênio.
 
-<p>Atualmente, estou focado no desenvolvimento ABAP <br> estudando ABAP e tenho experiência em SQL Server.</p>
+<p>Atualmente, estou focado no desenvolvimento ABAP, <br> estudando ABAP e fior e tenho experiência em SQL Server.</p>
 
 ## Sobre Mim
 
